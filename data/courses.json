@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "name": "Html",
+    "logo": "https://cdn-icons-png.flaticon.com/512/174/174854.png",
+    "duration": "4",
+    "prize": "300",
+    "rating": "4.5",
+    "description": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document."
+  },
+  {
+    "id": "2",
+    "name": "CSS",
+    "logo": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
+    "duration": "7",
+    "prize": "500",
+    "rating": "4.5",
+    "description": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+  },
+  {
+    "id": "3",
+    "name": "JavaScript",
+    "logo": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
+    "duration": "15",
+    "prize": "700",
+    "rating": "4.5",
+    "description": "JavaScript often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices."
+  },
+  {
+    "id": "4",
+    "name": "Php",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png",
+    "duration": "21",
+    "prize": "1000",
+    "rating": "4",
+    "description": "PHP is a general-purpose scripting language geared toward web development.[5] It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993.The PHP reference implementation is now produced by The PHP Group.PHP originally stood for Personal Home Page,but it now stands for the recursive initialism PHP: Hypertext Preprocessor."
+  },
+  {
+    "id": "5",
+    "name": "Python",
+    "logo": "https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo.png",
+    "duration": "24",
+    "prize": "1500",
+    "rating": "4",
+    "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a (batteries included) language due to its comprehensive standard library"
+  },
+  {
+    "id": "6",
+    "name": "Java",
+    "logo": "https://cdn-icons-png.flaticon.com/512/226/226777.png",
+    "duration": "28",
+    "prize": "2000",
+    "rating": "4.5",
+    "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),meaning that compiled Java code can run on all platforms that support Java without the need to recompile"
+  },
+  {
+    "id": "7",
+    "name": "Ruby",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png",
+    "duration": "18",
+    "prize": "1200",
+    "rating": "4",
+    "description": "Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms. It was designed with an emphasis on programming productivity and simplicity. In Ruby, everything is an object, including primitive data types. It was developed in the mid-1990s by Yukihiro (Matz) Matsumoto in Japan."
+  },
+  {
+    "id": "8",
+    "name": "C",
+    "logo": "https://w7.pngwing.com/pngs/683/374/png-transparent-code-business-implementation-information-web-design-c-language-logo-web-design-text-computer.png",
+    "duration": "25",
+    "prize": "1600",
+    "rating": "4.5",
+    "description": "The C Programming Language (sometimes termed K&R, after its authors' initials) is a computer programming book written by Brian Kernighan and Dennis Ritchie, the latter of whom originally designed and implemented the language, as well as co-designed the Unix operating system with which development of the language was closely intertwined."
+  },
+  {
+    "id": "9",
+    "name": "Swift",
+    "logo": "https://w7.pngwing.com/pngs/831/596/png-transparent-swift-apple-logo-objective-c-apple-logo-computer-programming-fruit-nut.png",
+    "duration": "14",
+    "prize": "1000",
+    "rating": "3.5",
+    "description": "Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community. First released in 2014,[10] Swift was developed as a replacement for Apple's earlier programming language Objective-C, as Objective-C had been largely unchanged since the early 1980s and lacked modern language features."
+  }
+]
